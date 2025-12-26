@@ -1,4 +1,4 @@
-# Microgrid-Sustainability-MECC2024
+# Microgrid-Sustainability-CCD-MECC2024
 This repository contains MATLAB code to simulate a microgrid and determine relevant sustainability metrics as described in the following article. If you make use of this data, follow the appropriate licensing rules described by GNU General Public License v3.0, and please cite the article.
 
 ## Article Information
