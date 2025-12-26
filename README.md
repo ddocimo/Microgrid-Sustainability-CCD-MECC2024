@@ -3,7 +3,7 @@ This repository contains MATLAB code to simulate a microgrid and determine relev
 
 ## Article Information
 T. R. Jahan, A. S. Ouedraogo and D. J. Docimo, "A Study on Control Co-Design for Optimizing Microgrid Sustainability," in IFAC-PapersOnLine, vol. 58, no. 28, pp. 636-641, October 2024, doi: 10.1016/j.ifacol.2025.01.037
-
+The article PDF is freely available at: [https://www.sciencedirect.com/science/article/pii/S2405896325000370](https://doi.org/10.1016/j.ifacol.2025.01.037)
 ## Notes
 
 - The function "runThis.m" permits editing of the plant and controller design variables, as well as relevant exogeneous input profiles. It will output relevant trajectories, such as the inputs, certain states, and power flows over time. It will also provide manufacturing-, operation-, and disposal-related sustainability metrics.
