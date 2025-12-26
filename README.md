@@ -4,7 +4,7 @@ This repository contains MATLAB code to simulate a microgrid and determine relev
 ## Article Information
 T. R. Jahan, A. S. Ouedraogo and D. J. Docimo, "A Study on Control Co-Design for Optimizing Microgrid Sustainability," in IFAC-PapersOnLine, vol. 58, no. 28, pp. 636-641, October 2024, doi: 10.1016/j.ifacol.2025.01.037
 
-The article PDF is freely available at: [https://doi.org/10.1016/j.ifacol.2025.01.037](https://doi.org/10.1016/j.ifacol.2025.01.037).
+The article PDF is freely available at: [https://doi.org/10.1016/j.ifacol.2025.01.037](https://doi.org/10.1016/j.ifacol.2025.01.037)
 
 ## Notes
 
